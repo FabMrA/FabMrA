@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FabMrA
-- 👀 I’m interested in Unity and C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Python and Unreal Engine 5
+- 🌱 I’m currently learning python
 - 📫 How to reach me - don't
 
 <!---
