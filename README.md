@@ -1,6 +1,6 @@
 Hi, I'm FabMrA.
 
-I am a game developer who mainly works in the Twine engine.\
+I'm a game developer who mainly works in the Twine engine.\
 I am currently working on a text-based RPG.
 
 <!---
